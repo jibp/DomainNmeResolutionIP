@@ -1,5 +1,5 @@
 # DomainNmeResolutionIP
-# 阿里云域名解析（动态）修改IP（远程家里电脑小KS）
+# 阿里云域名解析（动态）修改IP（远程家里电脑小KS）,让家里的电脑做服务器不是梦（可发布网站）。。。。。你懂得 ，不说了。。。。
 
 1.代码中的ID（Access Key ID）、Secret（Access Key Secret）是您访问阿里云API的密钥，需要自己在阿里云 用户信息管理--->安全信息管理 中创建
 
